@@ -1,2 +1,2 @@
 # javascript-sheets
-Scripts feitos tendo em base interações com o google sheets (planilhas).
+Scripts made using interactions with google sheets.
